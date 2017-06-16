@@ -1,0 +1,19 @@
+{
+  "name": "curso-mean",
+  "version": "1.0.0",
+  "description": "backend proyecto API Rest con NodeJS curso Udemy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jalcantara90/Musify-backend.git"
+  },
+  "author": "Jonathan Alcántara <jalcantara1990@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jalcantara90/Musify-backend/issues"
+  },
+  "homepage": "https://github.com/jalcantara90/Musify-backend#readme"
+}
